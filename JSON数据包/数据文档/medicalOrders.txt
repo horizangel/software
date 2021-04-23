@@ -1,0 +1,28 @@
+{
+  medCsId:"",
+  medOrderName:"",
+  medOrderEndTime:"",
+  medOrderAddress:"",
+  medOrderGoodsCounts:"",
+  medOrderPatientTel:"",
+  medOrderInfo:""
+  [
+	{
+	medPatientId:'',
+	medPatientName:"",
+  	medPatientAge:"",
+	medPatientTel:"",
+	medObject:"",
+	medClassfiy:"",
+ 	medPatientCId:"",
+	},
+	{
+	  medCId:"",
+	  medCName:"",
+	  medCInfo:"",
+	  medCClassify:"",
+	  medCCounts:"",
+	  medCPrice:""
+	}	
+  ]
+}

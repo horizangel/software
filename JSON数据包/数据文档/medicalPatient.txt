@@ -1,0 +1,50 @@
+{
+  medPatientId:'',
+  medPatientName:"",
+  medPatientAge:"",
+  medPatientTel:"",
+  medObject:"",
+  medClassfiy:"",
+  medPatientCId:"",
+  [
+	{
+	  medOrderName:"",
+	  medOrderEndTime:"",
+	  medOrderAddress:"",
+	  medOrderGoodsCounts:"",
+	  medOrderPatientTel:"",
+	  medOrderInfo:"",
+	}£¬
+	  [
+	     {
+	        medCId:"",
+	        medCName:"",
+	        medCInfo:"",
+	        medCClassify:"",
+	        medCCounts:"",
+	        medCPrice:""
+		}	
+	  ]
+	
+	},
+	{
+	  medNewsId:"",	
+	  medicalNews:"",	   
+	  medNewsTitle:"",
+	  medNewsCountent:"",
+	  medNewsTime:"",
+	  medNewsClassify:"",
+	  medNewsPress:""	  
+	},
+	{
+   	  medCId:"",
+	  medOrderName:"",
+	  medOrderEndTime:"",
+	  medOrderAddress:"",
+	  medOrderGoodsCounts:"",
+	  medOrderPatientTel:"",
+	  medOrderInfo:"",
+	}
+   ]
+  	
+}

@@ -1,0 +1,9 @@
+  {
+     medNewsId:"",	
+     medicalNews:"",	   
+     medNewsTitle:"",
+     medNewsCountent:"",
+     medNewsTime:"",
+     medNewsClassify:"",
+     medNewsPress:""	  
+  }
